@@ -1,0 +1,12 @@
+#charte{
+    width:60%;
+    border-width:4px;
+    border-style:solid;
+    border-color:#34a34e;
+    margin-left:20%;
+    padding:2%
+
+}
+#charte li{
+    list-style-type:none; 
+}
